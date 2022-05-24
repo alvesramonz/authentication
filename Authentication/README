@@ -1,0 +1,22 @@
+
+# Authentication Microservice
+
+Neste projeto que criamos um microsserviço que pode ser usado como forma de autenticar chamadas para uma API ou dentro de uma arquitetura de microsserviços. Neste projeto usaremos Python, Flask, MongoDB e JWT.
+
+
+## Rodando projeto
+
+O projeto assumes that you already have installed Python, Flask and MongoDB. You may have to make minor changes depending on how you set up MongoDB.
+
+Para avançar é necessário a utilização de uma env, acesse https://docs.python.org/pt-br/3/tutorial/venv.html para maiores informações.
+
+Prossiga com:
+```bash
+   pip install -r requirements.txt
+```
+
+Rode com:
+```bash
+    python runAuthentication.py
+```
+
